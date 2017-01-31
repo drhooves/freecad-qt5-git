@@ -1,2 +1,2 @@
 #!/bin/bash
-/opt/freecad-qt5/bin/FreeCADCmd
+/opt/freecad-qt5/bin/FreeCADCmd "$@"

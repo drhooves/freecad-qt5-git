@@ -2,8 +2,8 @@
 # Contributer: Christian Hesse <mail@eworm.de>
 
 pkgname=freecad-qt5-git
-pkgver=0.17pre.r3148.g8ed62e396
-pkgrel=1
+pkgver=0.17pre.r3198.g2d8461521
+pkgrel=2
 pkgdesc='A general purpose 3D CAD modeler - git checkout'
 arch=('i686' 'x86_64')
 url='http://www.freecadweb.org/'
@@ -22,8 +22,8 @@ source=("$pkgname::git+https://github.com/FreeCAD/FreeCAD.git"
 	"freecad-qt5.xml"
 	"rpath.patch")
 md5sums=('SKIP'
-         '3884c025150243074d17049f5497ca7b'
-         'fd4844ee92d0e35aab039d284c2a1692'
+         '20043b18348679526cf17853cb08f42e'
+         '5fe6884bb663b157c8c24f9b00da5337'
          'd7ba49dad1ae187ba857a850e7ccf03c'
          'c2f4154c8e4678825411de8e7fa54c6b'
          'b313a990287bce43dc698affae35d58d')
